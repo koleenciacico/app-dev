@@ -14,7 +14,7 @@ My first repository
 - Taken
 - Forgotten
 - Resident Evil
-  *many more*
+*many more..*
   
 **My music Taste / Artists**
 - RnB
@@ -33,7 +33,7 @@ My first repository
 - Sza
 - RINI
 - Beabadoobee
-   *many more*
+*many more...*
   
 **Hobbies**
 - read books and mangga
@@ -46,6 +46,6 @@ My first repository
 
 *yourstruly Keicee*
 
- ## *smile always, it's good for the heart🤍*
+## *smile always, it's good for the heart🤍*
   
 
