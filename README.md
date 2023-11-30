@@ -36,7 +36,7 @@ My first repository
 *many more...*
   
 **Hobbies**
-- read books and manga
+- reading books and manga
   > fiction, self healing, rom-com, scie-fi and mystery
 - a little bit of painting and drawing
 - Practice coding
